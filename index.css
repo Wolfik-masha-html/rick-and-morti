@@ -1,0 +1,26 @@
+.ul {
+    padding: 15px;
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    gap: 15px;
+    background-image: none;
+    font-size: 20px;
+    background-color: brown;
+    border-radius: 100px;
+    margin: 0 auto;
+    color: cadetblue;
+    justify-content: center;
+
+
+}
+
+html {
+    background-color: brown;
+}
+
+.btn{
+    background-color: cadetblue;
+    color: white;
+    border-radius: 10px;
+}
